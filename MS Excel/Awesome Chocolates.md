@@ -1,7 +1,7 @@
 # Awesome Chocolates Dataset by Chandoo🍫
 
 The data consists of various parameters the company Awesome Chocolate uses to track it's sales.\
-![image](https://user-images.githubusercontent.com/69965983/174160029-042699fb-9a94-4e4d-805d-5bf317ee6d13.png)\
+![image](https://user-images.githubusercontent.com/69965983/174160029-042699fb-9a94-4e4d-805d-5bf317ee6d13.png)
 
 
 The Data has **7 Columns and 300 Rows**.
